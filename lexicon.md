@@ -99,13 +99,13 @@ To be have a task delayed by unnecessary arguments against proceeding.
 ----------
 ### Linux Beard
 *(li-nux beer-du)*  
-The identification markings of a linux expert.
+The identification markings of a Linux expert.
 >He has a big beard. He is definitely pro at Linux.
 
 ----------
 ### Point on
 *(poynt on)*  
-To be releveant, in the zone, nailing it.
+To be relevant, in the zone, nailing it.
 >This dude is so point on at the moment.
 
 ----------
@@ -149,7 +149,7 @@ A hack to solve a problem that, intentionally or unintentionally, is actually we
 ----------
 ### SVaaS (Security Vulnerability as a Service)
 *(si-kyoo r-i-tee ven-er-uh-bih la-tee az ey sur-vis)*  
-A service hosted off premesis that handles secure or critical data, that can or has been compremised leaving the users or company vulnerable.
+A service hosted off premises that handles secure or critical data, that can or has been compromised leaving the users or company vulnerable.
 >Okta and LastPass are great products if you are looking for a SVaaS.
 
 ----------
