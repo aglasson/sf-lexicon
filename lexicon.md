@@ -136,6 +136,12 @@ A situation that has got progressively worse, or was not that tops to start with
 >Well, now we find ourselves in a shituation.
 
 ----------
+### SMWW
+*(es em dubya dubya)*  
+Subject Matter Worlds Worst - someone who is clearly not an expert in the field.
+>They are not the SME, they're the SMWW.
+
+----------
 ### Sprintly
 *(sprint-ly)*  
 Done, happening or occurring each sprint cycle.
