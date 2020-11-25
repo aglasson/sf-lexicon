@@ -39,6 +39,13 @@ The person who performs a change to a system in production during production hou
 >He released that code directly into prod, what a Cowboy.
 
 ----------
+### Double Hack
+*(duhb-uh l hak)*  
+When "single hacking" has not resolved the issue, on very rare occasions it is permitted to hack it again, resulting in a "Double Hack" (and a working system, 100% of the time. Guaranteed).
+- A notable example of Double Hacking was during The Great SQL-03 Outage of 2015 in which the deceased WS-PR-SQ-003 was Double Hacked and resurrected from the dead, before being Vegas Switched back into Production.
+>All attempts to hack something back together have failed so far. I'll try Double Hacking it next.
+
+----------
 ### Double Redundant
 *(duhb-uh l ri-duhn-duh nt)*  
 To implement a set of redundancy on top of existing redundancy that may have the opposite effect of redundancy, no improvement to overall redundancy or very little, with the outcome usually resulting in unnecessary complexity.  
@@ -53,11 +60,10 @@ To implement a set of redundancy on top of existing redundancy that may have the
 >Why did the disk fail, it was Double Redundant?
 
 ----------
-### Double Hack
-*(duhb-uh l hak)*  
-When "single hacking" has not resolved the issue, on very rare occasions it is permitted to hack it again, resulting in a "Double Hack" (and a working system, 100% of the time. Guaranteed).
-- A notable example of Double Hacking was during The Great SQL-03 Outage of 2015 in which the deceased WS-PR-SQ-003 was Double Hacked and resurrected from the dead, before being Vegas Switched back into Production.
->All attempts to hack something back together have failed so far. I'll try Double Hacking it next.
+### Double Suck Sensor
+*(duhb-uh l suh k)*  
+Nial's "patent-pending" distributed file system monitoring method where he puts a file in one end and sucks it out the other end to verify everything is working.
+>The Double Suck sensor in PRTG is down. Is there something wrong with DFS?
 
 ----------
 ### Drinking Bird
